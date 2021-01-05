@@ -10,8 +10,8 @@ except ImportError:
     from urllib2 import urlopen, Request
 
 
-DISCORD_TOKEN = "Njg5NTY4NjUzNDM5NTMzMDk4.X_OuBA.9wPgveQZEoB72QGeHjIA5Fsf12U"
-DISCORD_GUILD = "737512359287062559"
+DISCORD_TOKEN = "stop looking mine"
+DISCORD_GUILD = "idk why i have this"
 
 bot = commands.Bot(command_prefix='*', self_bot = True)
 
